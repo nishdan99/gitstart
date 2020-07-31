@@ -1,1 +1,1 @@
-hello this is third file from git repository
+hello this is third file from git repository and i want my name in it.
